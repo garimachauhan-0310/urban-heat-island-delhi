@@ -1,5 +1,12 @@
 # 🌡️ Urban Heat Island Analysis — Delhi
 
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-3.9+-blue?style=for-the-badge&logo=python&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
+
+</div>
+
 A data analysis project that uses **Google Earth Engine**, **satellite imagery**, and **machine learning** to study urban heat patterns over Delhi (2015–2023) and predict future Land Surface Temperature trends.
 
 ---
@@ -104,6 +111,52 @@ Data filtered for **April–June** (peak summer) with cloud cover < 10%.
 
 ---
 
-## 📝 License
+## 🤝 Contributions & Suggestions
 
-This project is open source and available under the [MIT License](LICENSE).
+Contributions, feature suggestions, and improvements are highly welcome!
+
+If you have ideas to enhance **FinSight AI** — whether related to:
+
+- 📐 Investment logic and risk modeling
+- 💡 Explainability and transparency
+- 🎨 UI/UX improvements
+- ⚡ Performance or scalability
+- 🔌 New features or integrations
+
+...please feel free to contribute!
+
+### How to Contribute
+
+1. 🍴 **Fork** the repository
+2. 🌿 **Create a new branch** (`feature/your-feature-name`)
+3. 💬 **Commit your changes** with clear messages
+4. 📬 **Open a Pull Request** describing your changes
+
+You may also:
+- 🐛 Open an **Issue** for bug reports or feature requests
+- 💭 Share **feedback** or architectural suggestions
+
+> All contributions should aim to keep the project **ethical**, **explainable**, and **user-focused**.
+
+---
+
+⭐ **If you find this project useful, consider giving it a star!** It helps others discover the project and motivates further development.
+
+---
+
+## 🧾 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+---
+
+## 🧑‍💻 Author
+
+**Garima Chauhan**
+
+- 🎓 B.Tech CSE (AIML) @ Jaypee University of Information Technology, Solan
+- 📍 From Noida, India
+- 📫 [garimachauhan03102006@gmail.com](mailto:garimachauhan03102006@gmail.com)
+- 🔗 [LinkedIn](#) | [GitHub](#)
+
+---
